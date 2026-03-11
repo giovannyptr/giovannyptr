@@ -1,55 +1,94 @@
-# Hi, I'm Giovanny 👋
+<h1 align="center">Hi, I'm Giovanny 🐱✨</h1>
 
-💻 Full Stack Developer  
-🧠 Psychology graduate who somehow ended up loving code  
-⚡ Building things with **React, Next.js, and Sanity CMS**
+<p align="center">
+Full Stack Developer • Next.js • React • Sanity CMS
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
+</p>
 
 ---
-## 🛠 Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## 🌸 About Me
 
-### Backend / CMS
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+🐾 Psychology graduate who fell into the coding rabbit hole  
+💻 Full-stack developer building **dashboards, CMS, and web apps**  
+🏭 Working on **smart factory systems for EV battery production**  
+📚 Literature lover & chronic book buyer  
+🏃‍♀️ Training for a **10K run**
 
-### Tools
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+Basically:  
+**coding + books + running + cats**
+
+---
+
+## 🧶 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,tailwind,git,vercel,figma"/>
+
+</p>
 
 ---
 
 ## 🚀 Featured Project
 
-### HMI Medical Developer Test
+### 🏥 HMI Medical Developer Test
+
 Next.js website connected to **Sanity CMS**
 
-🔗 Live  
+🌐 Live  
 https://hmi-medical-ta9c.vercel.app/
 
-🔗 GitHub  
+💻 Repository  
 https://github.com/giovannyptr/hmi-medical
 
 ---
 
 ## 📊 GitHub Stats
 
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyptr&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=giovannyptr&show_icons=true&theme=tokyonight"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyptr&layout=compact&theme=tokyonight"/>
 
-
-## 📫 Connect With Me
-
-GitHub  
-https://github.com/giovannyptr
+</p>
 
 ---
 
-✨ *Build things. Learn things. Repeat.*
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=giovannyptr&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🐾 Random Dev Cat
+
+<p align="center">
+<img src="https://cataas.com/cat/gif" width="250"/>
+</p>
+
+---
+
+## ✨ Quote
+
+> “Build things. Break things. Learn things.”
+
+---
+
+<p align="center">
+Thanks for visiting my little corner of GitHub 💫
+</p>
