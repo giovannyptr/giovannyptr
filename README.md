@@ -5,15 +5,6 @@
 ⚡ Building things with **React, Next.js, and Sanity CMS**
 
 ---
-
-## 🌱 About Me
-- ⚙️ Building **dashboards, CMS systems, and internal tools**
-- 📚 Book lover & literature enthusiast
-- 🏃‍♀️ Morning runner training for a **10K race**
-- 🚀 Interested in **product, startups, and tech that actually solves problems**
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
