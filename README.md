@@ -7,8 +7,6 @@
 ---
 
 ## 🌱 About Me
-
-- 🏭 Core developer in **Smart Factory team (EV Battery Manufacturing)**
 - ⚙️ Building **dashboards, CMS systems, and internal tools**
 - 📚 Book lover & literature enthusiast
 - 🏃‍♀️ Morning runner training for a **10K race**
