@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Giovanny 🐱✨</h1>
 
 <p align="center">
-Full Stack Developer • Next.js • React • Sanity CMS
+Full Stack Developer • Next.js • React • Node.js 
 </p>
 
 <p align="center">
@@ -14,7 +14,6 @@ Full Stack Developer • Next.js • React • Sanity CMS
 
 🐾 Psychology graduate who fell into the coding rabbit hole  
 💻 Full-stack developer building **dashboards, CMS, and web apps**  
-🏭 Working on **smart factory systems for EV battery production**  
 📚 Literature lover & chronic book buyer  
 🏃‍♀️ Training for a **10K run**
 
@@ -31,41 +30,9 @@ Basically:
 
 </p>
 
----
-
-## 🚀 Featured Project
-
-### 🏥 HMI Medical Developer Test
-
-Next.js website connected to **Sanity CMS**
-
-🌐 Live  
-https://hmi-medical-ta9c.vercel.app/
-
-💻 Repository  
-https://github.com/giovannyptr/hmi-medical
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=giovannyptr&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyptr&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=giovannyptr&theme=tokyonight"/>
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
