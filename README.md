@@ -12,13 +12,7 @@ Full Stack Developer • Next.js • React • Node.js
 
 ## 🌸 About Me
 
-🐾 Psychology graduate who fell into the coding rabbit hole  
-💻 Full-stack developer building **dashboards, CMS, and web apps**  
-📚 Literature lover & chronic book buyer  
-🏃‍♀️ Training for a **10K run**
-
-Basically:  
-**coding + books + running + cats**
+Psychology graduate who fell into the coding rabbit hole  
 
 ---
 
